@@ -1,0 +1,15 @@
+D:\PROJECTS REPO\SelfWriter\bin\Debug\net6.0\SelfWriter.exe
+D:\PROJECTS REPO\SelfWriter\bin\Debug\net6.0\SelfWriter.deps.json
+D:\PROJECTS REPO\SelfWriter\bin\Debug\net6.0\SelfWriter.runtimeconfig.json
+D:\PROJECTS REPO\SelfWriter\bin\Debug\net6.0\SelfWriter.dll
+D:\PROJECTS REPO\SelfWriter\bin\Debug\net6.0\ref\SelfWriter.dll
+D:\PROJECTS REPO\SelfWriter\bin\Debug\net6.0\SelfWriter.pdb
+D:\PROJECTS REPO\SelfWriter\obj\Debug\net6.0\SelfWriter.csproj.AssemblyReference.cache
+D:\PROJECTS REPO\SelfWriter\obj\Debug\net6.0\SelfWriter.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS REPO\SelfWriter\obj\Debug\net6.0\SelfWriter.AssemblyInfoInputs.cache
+D:\PROJECTS REPO\SelfWriter\obj\Debug\net6.0\SelfWriter.AssemblyInfo.cs
+D:\PROJECTS REPO\SelfWriter\obj\Debug\net6.0\SelfWriter.csproj.CoreCompileInputs.cache
+D:\PROJECTS REPO\SelfWriter\obj\Debug\net6.0\SelfWriter.dll
+D:\PROJECTS REPO\SelfWriter\obj\Debug\net6.0\ref\SelfWriter.dll
+D:\PROJECTS REPO\SelfWriter\obj\Debug\net6.0\SelfWriter.pdb
+D:\PROJECTS REPO\SelfWriter\obj\Debug\net6.0\SelfWriter.genruntimeconfig.cache
